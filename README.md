@@ -19,7 +19,7 @@ Make sure you have Java installed on your machine.
 Clone or download the Snake Game repository to your local machine.
 Open the project in your favorite Java IDE.
 Compile and run the GameFrame.java file to start the game.
-The game window will appear, and you can start controlling the snake using the arrow keys or designated keys.
+The game window will appear, and you can start controlling the snake using the W A S D keys.
 
 ## Dependencies
 The Snake game does not have any external dependencies. It is built using the standard Java libraries and Swing for the graphical user interface.
